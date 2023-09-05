@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "message": "Image liked successfully",
+    "data": {
+        "count": 1,
+        "id": 90,
+        "userId": 36,
+        "imageId": 51,
+        "updatedAt": "2023-09-05T05:22:36.890Z",
+        "createdAt": "2023-09-05T05:22:36.890Z"
+    }
+}
